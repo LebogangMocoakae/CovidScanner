@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Covid Scanner</string>
+    <string name="highRiskCountry">Did you travel to a high risk country int the last 14 days?</string>
+    <string name="inContactWithCovidPeople">Did you have contact with anyone with confirmed COVID-19 in the last 14 days?</string>
+    <string name="haveSymptoms">Do you have symptoms such as fever, cough and difficulty of breathing?</string>
+    <string name="submit">Submit</string>
+    <string name="enter_temperature">enter temperature</string>
+    <string name="forgot_password_click_here_to_reset">Forgot password? Click here to reset</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="app_icon">App Icon</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="registering_please_wait">Registering...please wait...</string>
+    <string name="busy_signing_in_please_wait">Busy signing in...please wait...</string>
+    <string name="logout">Logout</string>
+    <string name="student_id">Student ID:</string>
+    <string name="hold_camera_over_barcode">Hold camera over barcode</string>
+    <string name="loading_wait">Loading learner...please wait...</string>
+    <string name="retrieving_data">Retrieving data...please wait...</string>
+    <string name="sending_reset_instructions">Busy sending reset instructions...please wait...</string>
+    <string name="submit_screening">Sumitting screening...please wait...</string>
+    <string name="enter_learner_name">enter learner name</string>
+    <string name="enter_learner_surname">enter learner surname</string>
+    <string name="enter_learner_grade">enter learner grade</string>
+    <string name="enter_email_address">enter email address</string>
+    <string name="enter_password">enter password</string>
+    <string name="please_enter_school_email_address">please enter school email address</string>
+    <string name="please_enter_your_password">please enter your password</string>
+    <string name="please_re_type_your_password">please re-type your password</string>
+</resources>
